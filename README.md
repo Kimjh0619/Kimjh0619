@@ -44,7 +44,7 @@
   - **Switching**: VLAN, VTP, STP(MSTP)를 이용한 L2 네트워크 구성 및 루프 방지
   - **WAN**: Frame Relay를 이용한 지점 간 광역 네트워크 연결 및 구성
   - **High Availability**: VRRP를 이용한 게이트웨이 이중화로 서비스 연속성 확보
-- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%AA%A4%ED%85%9C%20%EA%B5%AC%EC%B6%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.pdf)]
+- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.pdf)]
 
 </details>
 <details>
@@ -56,7 +56,7 @@
   - **Access Control**: ACL을 활용하여 IP 및 프로토콜 기반의 정밀한 트래픽 제어
   - **NAT**: PAT 및 Static NAT를 구성하여 내부 IP 주소 보호 및 외부 서비스 제공
   - **Virtual Firewall**: 가상 방화벽(Security Contexts)을 구현하여 논리적 네트워크 분리 및 독립적인 보안 정책 적용
-- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%AA%A4%ED%85%9C%20%EA%B5%AC%EC%B6%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EB%B0%A9%ED%99%94%EB%B2%BD.pdf)]
+- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EB%B0%A9%ED%99%94%EB%B2%BD.pdf)]
 
 </details>
 <details>
@@ -67,7 +67,7 @@
   - **Network Policy**: Pod 간 Ingress/Egress 트래픽을 제어하여 마이크로서비스 환경의 보안 강화
   - **Service & Ingress**: ClusterIP, NodePort, Ingress Controller를 활용하여 서비스를 노출하고 트래픽 라우팅
   - **ETCD Backup/Restore**: 클러스터의 핵심 상태(네트워크 구성 포함)를 백업하고 복구하는 재해 복구 절차 수행
-- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%AA%A4%ED%85%9C%20%EA%B5%AC%EC%B6%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4.pdf)]
+- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4.pdf)]
 
 </details>
 <details>
@@ -78,7 +78,7 @@
   - **Virtual Networking**: vSwitch 및 Distributed Switch를 이용한 가상 네트워크 환경 설계 및 VLAN Trunking
   - **Storage Networking**: iSCSI를 구성하여 가상화 환경의 공유 스토리지 네트워크 구축
   - **High Availability**: vMotion, HA, FT 기능을 활성화하여 서비스 중단 없는 인프라 구현
-- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%AA%A4%ED%85%9C%20%EA%B5%AC%EC%B6%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EC%9C%88%EB%8F%84%EC%9A%B0.pdf)]
+- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EC%9C%88%EB%8F%84%EC%9A%B0.pdf)]
 
 </details>
 <details>
@@ -89,8 +89,8 @@
   - **Network Design**: VPC, Public/Private Subnet, Route Table을 이용한 안전하고 효율적인 네트워크 설계
   - **Traffic Control**: Security Group, Internet Gateway, NAT Gateway를 이용한 인/아웃바운드 트래픽 제어
   - **Load Balancing**: Auto Scaling Group과 Application Load Balancer를 연동한 고가용성 아키텍처 구축
-- [[프로젝트 상세 자료 - 1 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%AA%A4%ED%85%9C%20%EA%B5%AC%EC%B6%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20AWS_1%EC%9D%B8.pdf)]
-- [[프로젝트 상세 자료 - 2 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%AA%A4%ED%85%9C%20%EA%B5%AC%EC%B6%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20AWS_2%EC%9D%B8.pdf)]
+- [[프로젝트 상세 자료 - 1 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20AWS_1%EC%9D%B8.pdf)]
+- [[프로젝트 상세 자료 - 2 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20AWS_2%EC%9D%B8.pdf)]
 
 </details>
 <details>
@@ -100,7 +100,7 @@
 - **주요 역할 및 사용 기술**:
   - **IaC**: Terraform을 활용한 VPC, Subnet, Security Group, Route Table 등 핵심 네트워크 자원 자동화
   - **CI/CD**: GitHub Repository 연동을 통한 네트워크 구성 코드의 버전 관리 및 협업
-- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%AA%A4%ED%85%9C%20%EA%B5%AC%EC%B6%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%ED%85%8C%EB%9D%BC%ED%8F%BC.pdf)]
+- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%ED%85%8C%EB%9D%BC%ED%8F%BC.pdf)]
 
 </details>
 <details>
@@ -111,7 +111,7 @@
   - **IP/Firewall**: 고정 IP 설정 및 Firewalld를 통한 서버 접근 제어
   - **Core Services**: DNS(BIND), DHCP 서버 구축을 통한 네트워크 기반 서비스 제공
   - **File Sharing**: NFS, Samba를 이용한 네트워크 파일 공유 시스템 구축
-- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%AA%A4%ED%85%9C%20%EA%B5%AC%EC%B6%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EB%A6%AC%EB%88%85%EC%8A%A4.pdf)]
+- [[프로젝트 상세 자료 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20%EB%A6%AC%EB%88%85%EC%8A%A4.pdf)]
 
 </details>
 
