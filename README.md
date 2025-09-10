@@ -5,13 +5,13 @@
 
 <div align="center">
   
-## 📜 김진호 | 네트워크 엔지니어 포트폴리오
+## 📜 김진호 | 포트폴리오
 
 </div>
 
 <br>
 
-> 안녕하세요! **안정적이고 확장 가능한 인프라 구축**을 목표로 하는 신입 네트워크 엔지니어 김진호입니다.
+> 안녕하세요! **안정적이고 확장 가능한 인프라 구축**을 목표로 하는 김진호입니다.
 > 대우직업능력개발원에서 클라우드 기반 정보시스템 구축 전문가 과정을 이수하며, 전통적인 온프레미스 네트워크부터 클라우드, 가상화 환경까지 아우르는 폭넓은 기술 역량을 쌓았습니다. 여러 프로젝트에서 **팀장**을 맡아 기술적 문제 해결은 물론, 팀원들과의 협업을 이끌며 성공적인 결과물을 만들어냈습니다.
 
 <br>
@@ -22,7 +22,7 @@
 
 | 구분 | 기술 |
 | :--- | :--- |
-| **Networking** | <img src="https://img.shields.io/badge/TCP/IP-000000?style=flat-square&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Routing-4A90E2?style=flat-square"> <img src="https://img.shields.io/badge/Switching-4A90E2?style=flat-square"> <img src="https://img.shields.io/badge/Firewall-F5871F?style=flat-square"> <img src="https://img.shields.io/badge/WAN-7ED321?style=flat-square"> <img src="https://img.shields.io/badge/DNS-3DDC84?style=flat-square"> |
+| **Networking** | <img src="https://img.shields.io/badge/TCP/IP-000000?style=flat-square"> <img src="https://img.shields.io/badge/Routing-4A90E2?style=flat-square"> <img src="https://img.shields.io/badge/Switching-4A90E2?style=flat-square"> <img src="https://img.shields.io/badge/Firewall-F5871F?style=flat-square"> <img src="https://img.shields.io/badge/WAN-7ED321?style=flat-square"> <img src="https://img.shields.io/badge/DNS-3DDC84?style=flat-square"> |
 | **Cloud** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> |
 | **Virtualization** | <img src="https://img.shields.io/badge/VMware-6B7AB3?style=flat-square&logo=vmware&logoColor=white"> |
 | **IaC** | <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"> |
@@ -122,7 +122,7 @@
 ### 📞 연락처 (Contact)
 
 <p align="left">
+  <strong>Email | </strong><code>gomim88@naver.com</code>
   <a href="mailto:gomim88@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white" />
   </a>
 </p>
