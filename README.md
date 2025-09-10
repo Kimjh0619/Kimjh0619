@@ -119,15 +119,6 @@
 
 ---
 
-### 📊 나의 GitHub 통계 (My GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimjh0619&show_icons=true&theme=radical" alt="Kimjh0619's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimjh0619&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ### 📞 연락처 (Contact)
 
 <p align="left">
